@@ -2,6 +2,7 @@ package com.aspiration.test;
 
 
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.aspiration.pages.HomePage;
@@ -18,6 +19,7 @@ public class HomePageTest extends TestBase {
 		Thread.sleep(4000);
 		homePage.spendAndSave();
 	
+	//	Assert.assertEquals("GET ASPIRATION PLUS", "");
 		
 	}
 	

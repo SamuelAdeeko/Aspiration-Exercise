@@ -5,6 +5,7 @@
 		<classes>
 			<class name = "com.aspiration.test.TestBase" />
 		 	<class name = "com.aspiration.test.HomePageTest" /> 
+		 	<class name = "com.aspiration.test.OurProductsTest" />
 		</classes>
 	</test>
 </suite>
