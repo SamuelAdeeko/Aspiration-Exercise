@@ -9,6 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
 
 public class OurProducts {
 
@@ -24,8 +25,8 @@ public class OurProducts {
 	
 	@FindBy(how=How.XPATH, using="//button[@class='btn btn-v3 btn--blue ng-binding']") WebElement getAspirationPlus;
 	@FindBy(how=How.XPATH, using = "//input[@id='join-waitlist-input']") WebElement joinWaitList;
-	//	@FindBy(how =How.XPATH, using="//div[@class='circle']/h3") WebElement yearlyModal;
-//	@FindBy(how =How.XPATH, using="//div[@class='option']/div/h3") WebElement monthlyModal;
+	@FindBy(how =How.XPATH, using="//div[@class='modal-content']") WebElement aspirationPlusModal;
+//	@FindBy(how =How.XPATH, using="//div[@class='option']/h3") WebElement monthlyModal;
 	
 
 		// verify there are two card products, Aspiration and Aspiration plus
@@ -53,6 +54,7 @@ public class OurProducts {
 			String a = element.get(0).getText();
 			log.info("This is A: " + a);
 			String b = element.get(1).getText();
+			log.info("This is B: " + b);
 			Boolean isFalse = false;
 			
 			if(a.equals("GET ASPIRATION") || b.equals("GET ASPIRATION")) {
@@ -63,30 +65,70 @@ public class OurProducts {
 				if(isFalse) {
 					driver.navigate().back();
 					log.info("Navigated to previous product page.");
+					HomePage homePage = PageFactory.initElements(driver, HomePage.class);
+					homePage.spendAndSave();
 				}
 			}
+			
+		}
+			
+	
+
+		public void aspirationPlus() {
+
+			List<WebElement> element = new ArrayList<>();
+			element = driver.findElements(By.xpath("//button[@class='btn btn-v3 btn--blue ng-binding']"));
+			String a = element.get(0).getText();
+			log.info("This is A: " + a);
+			String b = element.get(1).getText();
+			log.info("This is B: " + b);
+			Boolean isFalse = false;
+			
 			if(a.equals("GET ASPIRATION PLUS") || b.equals("GET ASPIRATION PLUS")) {
 				element.get(1).click();
-				log.info("Get Aspiration Plus is clicked");
+				log.info("Get Aspiration plus is clicked");
+				isFalse = aspirationPlusModal();
+				// If isFalse is True, navigate back
+				if(isFalse) {
+					log.info("Modal Appears");
+				}
+			
 			}
-			else {
-				log.info("do nothing");
-			}
+			
+			
 		}
-		
+			
 		public Boolean joinWaitList() {
 			return joinWaitList.isDisplayed();
 		}
-		
-//		public void getAspirationPlus() {
-//			getAspirationPlus.click();
-//			log.info("Aspiration plus clicked");
-//		}
-		
-		public void yearlyModal() {
-//			String text = yearlyModal.getText();
-//			log.info("Modal: " + text);
+
+		//  modal with monthly and yearly plan is displayed
+		public Boolean aspirationPlusModal() {
+			Boolean isFalse = false;
+			isFalse = aspirationPlusModal.isDisplayed();
+			if(isFalse) {
+				log.info("Aspiration plus modal is displayed");
+				return isFalse;
+			}
+			return isFalse;
 		}
+		
 
-
+		
+		public void yearlyPayment() {
+			
+			WebElement element =  driver.findElement(By.xpath("//div[@class='option selected']"));
+		
+			String a = element.getText();
+			log.info("Text: " + a);
+		}
+		
+		public void monthlyPayment() {
+			
+			WebElement element =  driver.findElement(By.xpath("//div[@class='option']"));
+		
+			String a = element.getText();
+			log.info("Text: " + a);
+		}
+		
 }

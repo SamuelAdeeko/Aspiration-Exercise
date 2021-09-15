@@ -1,5 +1,8 @@
 package com.aspiration.test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -25,9 +28,16 @@ public class OurProductsTest extends TestBase{
 		actualProducts = ourProduct.products();
 		Assert.assertEquals( actualProducts, products);
 		
-		// Test to click get aspirations plus
-	//	ourProduct.getAspirationPlus();
+		// Test to click get Aspirations plus and Aspiration
+		
 		ourProduct.aspiration();
-		ourProduct.yearlyModal();
+		ourProduct.aspirationPlus();
+		
+		// Test to check if modal appears
+		ourProduct.aspirationPlusModal();
+		
+		ourProduct.yearlyPayment();
+		ourProduct.monthlyPayment();
+
 	}
 }
