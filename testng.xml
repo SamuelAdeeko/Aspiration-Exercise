@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "suite">
+	<test thread-count = "2" name = "Aspiration Test">
+		<classes>
+			<class name = "com.aspiration.test.TestBase" />
+		 	<class name = "com.aspiration.test.HomePageTest" /> 
+		</classes>
+	</test>
+</suite>
