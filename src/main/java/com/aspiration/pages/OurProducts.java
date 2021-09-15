@@ -23,7 +23,8 @@ public class OurProducts {
 	// using FindBy to get page web elements
 	
 	@FindBy(how=How.XPATH, using="//button[@class='btn btn-v3 btn--blue ng-binding']") WebElement getAspirationPlus;
-//	@FindBy(how =How.XPATH, using="//div[@class='circle']/h3") WebElement yearlyModal;
+	@FindBy(how=How.XPATH, using = "//input[@id='join-waitlist-input']") WebElement joinWaitList;
+	//	@FindBy(how =How.XPATH, using="//div[@class='circle']/h3") WebElement yearlyModal;
 //	@FindBy(how =How.XPATH, using="//div[@class='option']/div/h3") WebElement monthlyModal;
 	
 
@@ -31,6 +32,10 @@ public class OurProducts {
 		public String[] products() {
 			String[] product = new String[2];
 			List<WebElement> element = new ArrayList<>();
+			
+			/* Both cards have the same div class name,
+			by using findElements I am able to get all Web elements with same class name
+			*/
 			 element = driver.findElements(By.xpath("//div[@class = 'plan-content']/h2"));
 				String one = element.get(0).getText() ;
 				String two = element.get(1).getText();
@@ -41,10 +46,42 @@ public class OurProducts {
 				return product;
 		}
 		
-		public void getAspirationPlus() {
-			getAspirationPlus.click();
-			log.info("Aspiration plus clicked");
+		public void aspiration() {
+			
+			List<WebElement> element = new ArrayList<>();
+			element = driver.findElements(By.xpath("//button[@class='btn btn-v3 btn--blue ng-binding']"));
+			String a = element.get(0).getText();
+			log.info("This is A: " + a);
+			String b = element.get(1).getText();
+			Boolean isFalse = false;
+			
+			if(a.equals("GET ASPIRATION") || b.equals("GET ASPIRATION")) {
+				element.get(0).click();
+				log.info("Get Aspiration is clicked");
+				isFalse = joinWaitList();
+				// If isFalse is True, navigate back
+				if(isFalse) {
+					driver.navigate().back();
+					log.info("Navigated to previous product page.");
+				}
+			}
+			if(a.equals("GET ASPIRATION PLUS") || b.equals("GET ASPIRATION PLUS")) {
+				element.get(1).click();
+				log.info("Get Aspiration Plus is clicked");
+			}
+			else {
+				log.info("do nothing");
+			}
 		}
+		
+		public Boolean joinWaitList() {
+			return joinWaitList.isDisplayed();
+		}
+		
+//		public void getAspirationPlus() {
+//			getAspirationPlus.click();
+//			log.info("Aspiration plus clicked");
+//		}
 		
 		public void yearlyModal() {
 //			String text = yearlyModal.getText();

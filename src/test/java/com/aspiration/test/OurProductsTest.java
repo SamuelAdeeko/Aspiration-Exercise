@@ -21,11 +21,13 @@ public class OurProductsTest extends TestBase{
 		
 		String [] actualProducts = new String[2];
 		String [] products = {"Aspiration", "Aspiration Plus"};
+		// products() returns an array of Strings
 		actualProducts = ourProduct.products();
 		Assert.assertEquals( actualProducts, products);
 		
-		//  test to click get aspirations plus
-		ourProduct.getAspirationPlus();
+		// Test to click get aspirations plus
+	//	ourProduct.getAspirationPlus();
+		ourProduct.aspiration();
 		ourProduct.yearlyModal();
 	}
 }
