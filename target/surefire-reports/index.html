@@ -102,12 +102,12 @@
                     <div class="method-list-content passed suite-suite">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-suite" title="com.aspiration.test.OurProductsTest" hash-for-method="init">init</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-suite" title="com.aspiration.test.HomePageTest" hash-for-method="init">init</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-suite" title="com.aspiration.test.HomePageTest" hash-for-method="init">init</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-suite" title="com.aspiration.test.OurProductsTest" hash-for-method="init">init</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-suite -->
@@ -164,7 +164,6 @@
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;suite&quot;&gt;
   &lt;test thread-count=&quot;2&quot; verbose=&quot;0&quot; name=&quot;Aspiration Test&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.aspiration.test.TestBase&quot;/&gt;
       &lt;class name=&quot;com.aspiration.test.HomePageTest&quot;/&gt;
       &lt;class name=&quot;com.aspiration.test.OurProductsTest&quot;/&gt;
     &lt;/classes&gt;
@@ -180,7 +179,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Aspiration Test (3 classes)</span>
+                <span class="test-name">Aspiration Test (2 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -209,17 +208,17 @@ data.addColumn('number', 'Time (ms)');
 data.addRows(2);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'init')
-data.setCell(0, 2, 'com.aspiration.test.HomePageTest')
-data.setCell(0, 3, 8054);
+data.setCell(0, 2, 'com.aspiration.test.OurProductsTest')
+data.setCell(0, 3, 9140);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'init')
-data.setCell(1, 2, 'com.aspiration.test.OurProductsTest')
-data.setCell(1, 3, 7700);
+data.setCell(1, 2, 'com.aspiration.test.HomePageTest')
+data.setCell(1, 3, 8985);
 window.suiteTableData['suite']= { tableData: data, tableDiv: 'times-div-suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 15 seconds</span>
+              <span class="suite-total-time">Total running time: 18 seconds</span>
               <div id="times-div-suite">
               </div> <!-- times-div-suite -->
             </div> <!-- times-div -->
@@ -234,18 +233,9 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">4 ignored methods</span>
+            <span class="header-content">2 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.aspiration.test.HomePageTest</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">initialize</span>
-                <br/>
-                <span class="ignored-method-name">endTest</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
             <div class="ignored-class-div">
               <span class="ignored-class-name">com.aspiration.test.OurProductsTest</span>
               <div class="ignored-methods-div">
@@ -263,31 +253,28 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.aspiration.test.TestBase</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.aspiration.test.HomePageTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">initialize</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.aspiration.test.HomePageTest</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">init</span>
-                <span class="method-start">7930 ms</span>
+                <span class="method-start">11126 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.aspiration.test.OurProductsTest</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">init</span>
-                <span class="method-start">15987 ms</span>
+                <span class="method-start">20113 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
-              <div class="chronological-class-name">com.aspiration.test.TestBase</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.aspiration.test.HomePageTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite after">
                 <span class="method-name">endTest</span>
-                <span class="method-start">28707 ms</span>
+                <span class="method-start">34272 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

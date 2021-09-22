@@ -1,5 +1,8 @@
 package com.aspiration.test;
 
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
@@ -15,7 +18,7 @@ public class TestBase {
 	
 	
 	@BeforeSuite
-	public void initialize() {
+	public void initialize() throws IOException {
 		
 		System.setProperty("webdriver.chrome.driver", "//Users//adekoyaadeeko//Downloads//chromedriver");
 		// create an object of chrome driver
@@ -27,9 +30,16 @@ public class TestBase {
 		//Implicitly wait for some seconds for browser to load
 		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
 		
-		//open the web page
-		driver.get("https://aspiration.com/");
 		
+		//read properties from the properties file
+		
+		Properties properties = new Properties();
+		FileInputStream inputStream = new FileInputStream("/Users/adekoyaadeeko/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/Aspiration-Exercise/src/test/resources/testdata.properties");
+		properties.load(inputStream);
+		String url = properties.getProperty("url");
+		
+		//open the web page
+		driver.get(url);
 	}
 	
 	@AfterSuite

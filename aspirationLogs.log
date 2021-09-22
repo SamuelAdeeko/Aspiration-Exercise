@@ -455,3 +455,276 @@ $7.99 paid monthly                     15-Sep-2021 Wednesday PDT 03:24:41
 $71.88 paid once yearly                     15-Sep-2021 Wednesday PDT 03:27:41
 {INFO}  com.aspiration.pages.OurProducts   Text: Monthly
 $7.99 paid monthly                     15-Sep-2021 Wednesday PDT 03:27:41
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     15-Sep-2021 Wednesday PDT 08:51:06
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 08:51:19
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     15-Sep-2021 Wednesday PDT 08:51:20
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     15-Sep-2021 Wednesday PDT 08:51:20
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 08:51:20
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 08:51:20
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     15-Sep-2021 Wednesday PDT 08:51:20
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     15-Sep-2021 Wednesday PDT 08:51:27
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 08:51:33
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 08:51:33
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 08:51:33
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     15-Sep-2021 Wednesday PDT 08:51:34
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 08:51:35
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     15-Sep-2021 Wednesday PDT 08:51:35
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 08:51:35
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     15-Sep-2021 Wednesday PDT 08:51:35
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     15-Sep-2021 Wednesday PDT 08:51:35
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     15-Sep-2021 Wednesday PDT 10:29:53
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 10:30:02
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     15-Sep-2021 Wednesday PDT 10:30:02
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     15-Sep-2021 Wednesday PDT 10:30:02
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 10:30:02
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 10:30:02
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     15-Sep-2021 Wednesday PDT 10:30:02
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     15-Sep-2021 Wednesday PDT 10:30:06
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 10:30:09
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 10:30:09
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 10:30:09
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     15-Sep-2021 Wednesday PDT 10:30:10
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 10:30:10
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     15-Sep-2021 Wednesday PDT 10:30:10
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 10:30:10
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     15-Sep-2021 Wednesday PDT 10:30:10
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     15-Sep-2021 Wednesday PDT 10:30:10
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     15-Sep-2021 Wednesday PDT 10:32:44
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 10:32:55
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     15-Sep-2021 Wednesday PDT 10:32:56
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     15-Sep-2021 Wednesday PDT 10:32:56
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 10:32:56
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 10:32:56
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     15-Sep-2021 Wednesday PDT 10:32:57
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     15-Sep-2021 Wednesday PDT 10:33:09
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 10:33:21
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 10:33:22
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 10:33:22
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     15-Sep-2021 Wednesday PDT 10:33:23
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 10:33:25
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     15-Sep-2021 Wednesday PDT 10:33:25
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 10:33:25
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     15-Sep-2021 Wednesday PDT 10:33:25
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     15-Sep-2021 Wednesday PDT 10:33:26
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     15-Sep-2021 Wednesday PDT 10:35:17
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 10:35:29
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     15-Sep-2021 Wednesday PDT 10:35:29
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     15-Sep-2021 Wednesday PDT 10:35:29
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 10:35:30
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 10:35:30
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     15-Sep-2021 Wednesday PDT 10:35:30
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     15-Sep-2021 Wednesday PDT 10:35:36
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 10:35:42
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 10:35:42
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 10:35:42
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     15-Sep-2021 Wednesday PDT 10:35:42
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 10:35:43
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     15-Sep-2021 Wednesday PDT 10:35:43
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 10:35:43
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     15-Sep-2021 Wednesday PDT 10:35:43
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     15-Sep-2021 Wednesday PDT 10:35:43
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     15-Sep-2021 Wednesday PDT 11:32:56
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 11:33:14
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     15-Sep-2021 Wednesday PDT 11:33:14
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     15-Sep-2021 Wednesday PDT 11:33:14
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 11:33:15
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 11:33:15
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     15-Sep-2021 Wednesday PDT 11:33:15
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     15-Sep-2021 Wednesday PDT 11:33:28
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 11:33:38
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 11:33:39
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 11:33:39
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     15-Sep-2021 Wednesday PDT 11:33:40
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 11:33:41
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     15-Sep-2021 Wednesday PDT 11:33:41
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 11:33:41
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     15-Sep-2021 Wednesday PDT 11:33:41
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     15-Sep-2021 Wednesday PDT 11:33:41
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     15-Sep-2021 Wednesday PDT 21:14:24
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 21:14:28
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     15-Sep-2021 Wednesday PDT 21:14:28
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     15-Sep-2021 Wednesday PDT 21:14:28
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 21:14:28
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 21:14:28
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     15-Sep-2021 Wednesday PDT 21:14:28
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     15-Sep-2021 Wednesday PDT 21:14:31
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 21:14:34
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 21:14:34
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 21:14:34
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     15-Sep-2021 Wednesday PDT 21:14:34
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 21:14:35
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     15-Sep-2021 Wednesday PDT 21:14:35
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 21:14:35
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     15-Sep-2021 Wednesday PDT 21:14:35
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     15-Sep-2021 Wednesday PDT 21:14:35
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     15-Sep-2021 Wednesday PDT 21:15:28
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 21:15:34
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     15-Sep-2021 Wednesday PDT 21:15:34
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     15-Sep-2021 Wednesday PDT 21:15:34
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 21:15:34
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 21:15:34
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     15-Sep-2021 Wednesday PDT 21:15:34
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     15-Sep-2021 Wednesday PDT 21:15:38
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 21:15:40
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 21:15:41
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 21:15:41
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     15-Sep-2021 Wednesday PDT 21:15:41
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 21:15:41
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     15-Sep-2021 Wednesday PDT 21:15:41
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 21:15:41
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     15-Sep-2021 Wednesday PDT 21:15:41
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     15-Sep-2021 Wednesday PDT 21:15:41
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 21:20:41
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     15-Sep-2021 Wednesday PDT 21:20:41
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     15-Sep-2021 Wednesday PDT 21:20:41
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 21:20:41
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 21:20:41
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     15-Sep-2021 Wednesday PDT 21:20:41
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     15-Sep-2021 Wednesday PDT 21:20:44
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     15-Sep-2021 Wednesday PDT 21:20:46
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     15-Sep-2021 Wednesday PDT 21:20:46
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     15-Sep-2021 Wednesday PDT 21:20:47
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     15-Sep-2021 Wednesday PDT 21:20:47
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 21:20:47
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     15-Sep-2021 Wednesday PDT 21:20:47
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     15-Sep-2021 Wednesday PDT 21:20:47
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     15-Sep-2021 Wednesday PDT 21:20:47
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     15-Sep-2021 Wednesday PDT 21:20:47
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 14:43:26
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 14:45:55
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 14:47:44
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     18-Sep-2021 Saturday PDT 14:47:52
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     18-Sep-2021 Saturday PDT 14:47:52
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     18-Sep-2021 Saturday PDT 14:47:52
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     18-Sep-2021 Saturday PDT 14:47:52
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     18-Sep-2021 Saturday PDT 14:47:52
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     18-Sep-2021 Saturday PDT 14:47:53
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     18-Sep-2021 Saturday PDT 14:47:57
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     18-Sep-2021 Saturday PDT 14:47:59
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     18-Sep-2021 Saturday PDT 14:47:59
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     18-Sep-2021 Saturday PDT 14:47:59
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     18-Sep-2021 Saturday PDT 14:48:00
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     18-Sep-2021 Saturday PDT 14:48:00
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     18-Sep-2021 Saturday PDT 14:48:00
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     18-Sep-2021 Saturday PDT 14:48:00
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     18-Sep-2021 Saturday PDT 14:48:00
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     18-Sep-2021 Saturday PDT 14:48:00
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 14:49:04
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 14:50:38
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 14:52:14
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     18-Sep-2021 Saturday PDT 14:52:21
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     18-Sep-2021 Saturday PDT 14:52:21
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     18-Sep-2021 Saturday PDT 14:52:21
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     18-Sep-2021 Saturday PDT 14:52:22
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     18-Sep-2021 Saturday PDT 14:52:22
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     18-Sep-2021 Saturday PDT 14:52:22
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     18-Sep-2021 Saturday PDT 14:52:25
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     18-Sep-2021 Saturday PDT 14:52:28
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     18-Sep-2021 Saturday PDT 14:52:28
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     18-Sep-2021 Saturday PDT 14:52:28
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     18-Sep-2021 Saturday PDT 14:52:29
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     18-Sep-2021 Saturday PDT 14:52:29
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     18-Sep-2021 Saturday PDT 14:52:29
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     18-Sep-2021 Saturday PDT 14:52:29
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     18-Sep-2021 Saturday PDT 14:52:29
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     18-Sep-2021 Saturday PDT 14:52:29
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 22:19:53
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     18-Sep-2021 Saturday PDT 22:20:00
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     18-Sep-2021 Saturday PDT 22:20:01
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     18-Sep-2021 Saturday PDT 22:20:01
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     18-Sep-2021 Saturday PDT 22:20:01
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     18-Sep-2021 Saturday PDT 22:20:01
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     18-Sep-2021 Saturday PDT 22:20:01
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     18-Sep-2021 Saturday PDT 22:20:05
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     18-Sep-2021 Saturday PDT 22:20:08
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     18-Sep-2021 Saturday PDT 22:20:08
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     18-Sep-2021 Saturday PDT 22:20:08
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     18-Sep-2021 Saturday PDT 22:20:09
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     18-Sep-2021 Saturday PDT 22:20:09
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     18-Sep-2021 Saturday PDT 22:20:09
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     18-Sep-2021 Saturday PDT 22:20:09
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     18-Sep-2021 Saturday PDT 22:20:09
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     18-Sep-2021 Saturday PDT 22:20:09
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 22:24:57
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 22:28:35
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 22:50:05
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 22:52:22
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 22:53:51
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     18-Sep-2021 Saturday PDT 22:53:58
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     18-Sep-2021 Saturday PDT 22:53:59
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     18-Sep-2021 Saturday PDT 22:53:59
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     18-Sep-2021 Saturday PDT 22:53:59
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     18-Sep-2021 Saturday PDT 22:53:59
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     18-Sep-2021 Saturday PDT 22:53:59
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     18-Sep-2021 Saturday PDT 22:54:02
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     18-Sep-2021 Saturday PDT 22:54:06
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     18-Sep-2021 Saturday PDT 22:54:06
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     18-Sep-2021 Saturday PDT 22:54:06
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     18-Sep-2021 Saturday PDT 22:54:07
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     18-Sep-2021 Saturday PDT 22:54:07
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     18-Sep-2021 Saturday PDT 22:54:07
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     18-Sep-2021 Saturday PDT 22:54:07
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     18-Sep-2021 Saturday PDT 22:54:07
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     18-Sep-2021 Saturday PDT 22:54:07
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     18-Sep-2021 Saturday PDT 23:45:07
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     18-Sep-2021 Saturday PDT 23:45:15
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     18-Sep-2021 Saturday PDT 23:45:15
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     18-Sep-2021 Saturday PDT 23:45:15
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     18-Sep-2021 Saturday PDT 23:45:15
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     18-Sep-2021 Saturday PDT 23:45:15
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     18-Sep-2021 Saturday PDT 23:45:16
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     18-Sep-2021 Saturday PDT 23:45:19
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     18-Sep-2021 Saturday PDT 23:45:22
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     18-Sep-2021 Saturday PDT 23:45:22
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     18-Sep-2021 Saturday PDT 23:45:23
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     18-Sep-2021 Saturday PDT 23:45:23
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     18-Sep-2021 Saturday PDT 23:45:23
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     18-Sep-2021 Saturday PDT 23:45:23
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     18-Sep-2021 Saturday PDT 23:45:23
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     18-Sep-2021 Saturday PDT 23:45:23
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     18-Sep-2021 Saturday PDT 23:45:23
+{INFO}  com.aspiration.pages.HomePage   cookie accepted                     21-Sep-2021 Tuesday PDT 19:38:42
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     21-Sep-2021 Tuesday PDT 19:38:50
+{INFO}  com.aspiration.pages.OurProducts   Text one == Aspiration                     21-Sep-2021 Tuesday PDT 19:38:51
+{INFO}  com.aspiration.pages.OurProducts   Text two == Aspiration Plus                     21-Sep-2021 Tuesday PDT 19:38:51
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     21-Sep-2021 Tuesday PDT 19:38:51
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     21-Sep-2021 Tuesday PDT 19:38:51
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration is clicked                     21-Sep-2021 Tuesday PDT 19:38:51
+{INFO}  com.aspiration.pages.OurProducts   Navigated to previous product page.                     21-Sep-2021 Tuesday PDT 19:38:56
+{INFO}  com.aspiration.pages.HomePage   Spend and Save link clicked                     21-Sep-2021 Tuesday PDT 19:38:58
+{INFO}  com.aspiration.pages.OurProducts   This is A: GET ASPIRATION                     21-Sep-2021 Tuesday PDT 19:38:59
+{INFO}  com.aspiration.pages.OurProducts   This is B: GET ASPIRATION PLUS                     21-Sep-2021 Tuesday PDT 19:38:59
+{INFO}  com.aspiration.pages.OurProducts   Get Aspiration plus is clicked                     21-Sep-2021 Tuesday PDT 19:38:59
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     21-Sep-2021 Tuesday PDT 19:38:59
+{INFO}  com.aspiration.pages.OurProducts   Modal Appears                     21-Sep-2021 Tuesday PDT 19:38:59
+{INFO}  com.aspiration.pages.OurProducts   Aspiration plus modal is displayed                     21-Sep-2021 Tuesday PDT 19:38:59
+{INFO}  com.aspiration.pages.OurProducts   Text: Yearly 25% Savings
+$71.88 paid once yearly                     21-Sep-2021 Tuesday PDT 19:38:59
+{INFO}  com.aspiration.pages.OurProducts   Text: Monthly
+$7.99 paid monthly                     21-Sep-2021 Tuesday PDT 19:39:00

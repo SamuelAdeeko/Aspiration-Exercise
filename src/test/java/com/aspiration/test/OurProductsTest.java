@@ -1,7 +1,5 @@
 package com.aspiration.test;
 
-import java.util.ArrayList;
-import java.util.List;
 
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
